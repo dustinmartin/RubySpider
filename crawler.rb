@@ -1,10 +1,3 @@
-# Look at page 
-# Get links and queue links that are new (not already in queue, not index, or not indexed in certain timeframe)
-# Index page
-# Get next link from queue and process (perhaps only get links from the current domain until the entire domain is processed)
-
-# Domain, Page, Word, WordLocation
-
 require 'nokogiri'
 require 'open-uri'
 require 'uri'
