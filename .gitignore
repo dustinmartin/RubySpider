@@ -1,3 +1,7 @@
+# Other files #
+###############
+db/data.db
+
 # Temporary files #
 ###################
 *.swp
